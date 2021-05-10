@@ -1,0 +1,21 @@
+{
+	"info": {
+		"_postman_id": "71ca3778-9631-463b-8319-5426654e8d86",
+		"name": "Exercise API",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Github user and repos",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": ""
+				},
+				"description": "Retrieve basic information about a Github user and their repos"
+			},
+			"response": []
+		}
+	]
+}
